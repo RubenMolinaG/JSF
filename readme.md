@@ -1,18 +1,5 @@
 # JSF
 
-- [JSF](#jsf)
-  * [¿Qué es JSF?](#-qu--es-jsf-)
-  * [Patrón de diseño Modelo-Vista-Controlador](#patr-n-de-dise-o-modelo-vista-controlador)
-    + [Controlador](#controlador)
-    + [Modelo](#modelo)
-    + [Vista](#vista)
-  * [Componentes externos de JSF para UI](#componentes-externos-de-jsf-para-ui)
-  * [Componentes de una aplicación JSF](#componentes-de-una-aplicaci-n-jsf)
-    + [Páginas Web para gestionar los componentes UI](#p-ginas-web-para-gestionar-los-componentes-ui)
-    + [Beans](#beans)
-    + [Un 'web deployment descriptor' (web.xml)](#un--web-deployment-descriptor---webxml-)
-    + [Otros](#otros)
-
 ## ¿Qué es JSF?
 - Marco de trabajo para hacer aplicaciones web.
 - Standard para Java Enterprise Edition (Java EE).
@@ -41,6 +28,7 @@ Modelo > Controlador > Vista > Clinte Web.
 ## Componentes de una aplicación JSF
 - Páginas Web para gestionar los componentes UI
 - Beans
+  | Lo usamos para hacer operaciones en segundo plano y comunicarnos con los elementos de la base de datos.
 - Un 'web deployment descriptor' (web.xml)
 - Otros
   * Ficheos de Configuración (faces-config.xml)
