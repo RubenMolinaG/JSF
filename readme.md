@@ -42,7 +42,7 @@ Modelo > Controlador > Vista > Clinte Web.
 - Páginas Web para gestionar los componentes UI
 - Beans
 - Un 'web deployment descriptor' (web.xml)
-- Otros
+* Otros
  - Ficheos de Configuración (faces-config.xml)
  - Objetos y Componentes que nosotros creemos.
 
