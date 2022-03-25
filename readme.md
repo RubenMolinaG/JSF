@@ -39,12 +39,12 @@ Modelo > Controlador > Vista > Clinte Web.
 - PrimeFaces.
 
 ## Componentes de una aplicación JSF
-### Páginas Web para gestionar los componentes UI
-### Beans
-### Un 'web deployment descriptor' (web.xml)
-### Otros
-- Ficheos de Configuración (faces-config.xml)
-- Objetos y Componentes que nosotros creemos.
+- Páginas Web para gestionar los componentes UI
+- Beans
+- Un 'web deployment descriptor' (web.xml)
+- Otros
+ - Ficheos de Configuración (faces-config.xml)
+ - Objetos y Componentes que nosotros creemos.
 
 
 
