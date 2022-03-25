@@ -43,8 +43,8 @@ Modelo > Controlador > Vista > Clinte Web.
 - Beans
 - Un 'web deployment descriptor' (web.xml)
 * Otros
- - Ficheos de Configuración (faces-config.xml)
- - Objetos y Componentes que nosotros creemos.
+ + Ficheos de Configuración (faces-config.xml)
+ + Objetos y Componentes que nosotros creemos.
 
 
 
